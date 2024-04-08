@@ -1,1 +1,2 @@
 "# portfolio" 
+This code sets up a single-page portfolio website with sections for Home, About, Education, Portfolio, and Contact. It uses Font Awesome for icons, custom CSS for styling, and jQuery for interactive behaviors like toggling the menu, showing a scroll-to-top button, and enabling smooth scrolling to section anchors.
